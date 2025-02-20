@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Hsin Hen, Flutter Developer specializing in mobile & web, crafting seamless apps with a strong focus on UI/UX. Passionate about building intuitive, high-performance solutions that blend design and functionality.
+I am Hen, Flutter Developer specializing in mobile & web, crafting seamless apps with a strong focus on UI/UX. Passionate about building intuitive, high-performance solutions that blend design and functionality.
 
 
 ## 🌐 Socials:

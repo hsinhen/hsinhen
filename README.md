@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Chin Chia, a results-driven software engineer with over two years of experience in crafting scalable, efficient web and mobile applications. With a strong background in React, Node.js, and AWS, I specialize in optimizing performance, building responsive user-centric designs, and architecting secure, serverless infrastructures.
+I am Hsin Hen, Flutter Developer specializing in mobile & web, crafting seamless apps with a strong focus on UI/UX. Passionate about building intuitive, high-performance solutions that blend design and functionality.
 
 
 ## 🌐 Socials:

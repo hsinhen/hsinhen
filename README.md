@@ -1,27 +1,99 @@
-# 💫 About Me:
-I am Hen, Flutter Developer specializing in mobile & web, crafting seamless apps with a strong focus on UI/UX. Passionate about building intuitive, high-performance solutions that blend design and functionality.
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer-🚀-blueviolet?style=for-the-badge" alt="Software Engineer Badge" />
+</p>
 
+<h1 align="center">Wee Hsin Hen</h1>
+<h3 align="center">Software Engineer | Mobile & Web Developer | Innovator</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wee-hsin-hen-88900918b/) 
-
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Objective-C](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hsinhen&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hsinhen&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hsinhen&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hsinhen&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hsinhen&limit=10&theme=radical&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/hsinhen"><img src="https://img.shields.io/badge/GitHub-hsinhen-181717?style=flat-square&logo=github" alt="GitHub Profile" /></a>
+  <a href="mailto:Weehsinhen@gmail.com"><img src="https://img.shields.io/badge/Email-Weehsinhen%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" /></a>
+  <a href="tel:+6589197300"><img src="https://img.shields.io/badge/SG%20Phone-+65%208919%207300-2ea44f?style=flat-square" alt="SG Phone" /></a>
+  <a href="tel:+60106592505"><img src="https://img.shields.io/badge/MY%20Phone-+60%2010659%202505-2ea44f?style=flat-square" alt="MY Phone" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hsinhen&icon=4&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+Experienced software developer with a passion for building **scalable, user-centric mobile and web applications**. Skilled in **Flutter, Kotlin, Swift**, and modern frameworks, I specialize in systems integration and cross-functional collaboration. Committed to delivering **secure, maintainable, and innovative solutions** that enhance digital experiences.
+
+---
+
+## 🛠️ Technical Skills
+- **Languages**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift) JavaScript, Dart, SQL
+- **Frameworks & Tools**: Bloc, GetX, JSON API, Postman, Google Maps, JIRA, Scrum
+- **Technologies**: RFID, Sensors, Mobile App Deployment (App Store, Play Store), Dynamic Links, UI/UX Design
+- **Focus Areas**: State Management, Data Visualization, Unit/Automation Testing, Cross-Platform Development
+
+---
+
+## 💼 Work Experience
+
+### **Operations Support**  
+**Provident Capitals Pte Ltd, Raffles Place**  
+_April 2025 – July 2025_  
+- 🛳️ Coordinated vessel nominations and port activities for seamless logistics operations.  
+- 📑 Managed import/export documentation, ensuring compliance with operational standards.  
+- 🌐 Contributed to website revamps, enhancing layout, content, and user experience.  
+- ⚡ Provided rapid support for ad-hoc operational issues.
+
+### **Web & App Developer**  
+**Mlion Corp Pte Ltd, Bukit Batok**  
+_September 2023 – April 2025_  
+- 📱 Led development of **GoTagID app and website**, solving traceability issues in the steel industry.  
+- 🔗 Designed **Rapid Tag** (RFID-based) and **Endure Tag** (durable steel casing) for cloud-based data storage.  
+- 🌡️ Integrated sensors for strain, pressure, temperature, motion, and light.  
+- 🔒 Enhanced user experience, data security, and client satisfaction.
+
+### **Full Stack Developer**  
+**SCube Sdn Bhd, Petaling Jaya**  
+_August 2022 – September 2023_  
+- 📊 Developed **Transaction Tracker app** with dynamic links and Google Maps integration.  
+- 📈 Created diverse chart types (line, bar, pie, etc.) for optimized data visualization.  
+- 💻 Built libraries with Bloc for state management, improving code organization.  
+- 💳 Implemented bill-splitting feature and native plugins in Kotlin and Swift.
+
+### **Mobile App Developer**  
+**Volserver Sdn Bhd, Kuala Lumpur**  
+_May 2021 – August 2022_  
+- 🚀 Developed and deployed apps to App Store and Play Store using Scrum and JIRA.  
+- 🔌 Integrated back-end services via JSON API and used GetX for state management.  
+- 🛠️ Built reusable packages to enhance maintainability across projects.
+
+### **Mobile App Developer**  
+**Strateq Sdn Bhd, Petaling Jaya**  
+_May 2019 – May 2021_  
+- 📱 Developed Android/iOS apps, improving user engagement and performance.  
+- 🧪 Implemented unit/automation tests, reducing QA workload and enhancing reliability.  
+- 🔄 Redesigned apps for better usability and ensured visual consistency.
+
+---
+
+## 🎓 Education
+- **Staffordshire University**  
+  _Bachelor’s of Science in Information Technology_  
+  _2016 – 2019_ | Second Class Honours: 1st Division  
+
+- **Asia Pacific University**  
+  _Bachelor’s Degree in IT (Specialization in Mobile Computing)_  
+  _2016 – 2019_ | Second Class Honours: 1st Division  
+
+---
+
+## 🚀 Portfolio Highlights
+- **GoTagID App & Website**  
+  A mobile and web platform for steel industry traceability using RFID and sensor integration.  
+- **Transaction Tracker App**  
+  Enhanced transaction management with dynamic links, Google Maps, and data visualization.  
+- **Explore More**: Check out my projects on [GitHub](https://github.com/hsinhen).  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hsinhen&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsinhen&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  Let's connect and build something amazing together! 🌟
+</p>

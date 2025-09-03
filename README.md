@@ -7,9 +7,6 @@
 
 <p align="center">
   <a href="https://github.com/hsinhen"><img src="https://img.shields.io/badge/GitHub-hsinhen-181717?style=flat-square&logo=github" alt="GitHub Profile" /></a>
-  <a href="mailto:Weehsinhen@gmail.com"><img src="https://img.shields.io/badge/Email-Weehsinhen%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" /></a>
-  <a href="tel:+6589197300"><img src="https://img.shields.io/badge/SG%20Phone-+65%208919%207300-2ea44f?style=flat-square" alt="SG Phone" /></a>
-  <a href="tel:+60106592505"><img src="https://img.shields.io/badge/MY%20Phone-+60%2010659%202505-2ea44f?style=flat-square" alt="MY Phone" /></a>
 </p>
 
 ---

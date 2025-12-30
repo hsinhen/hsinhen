@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hsin Hen (Henri)
+# Wee Hsin Hen
 
-**Builder of practical finance & operations tools**  
+**Building practical platforms for property, finance, and life operations**  
 Focused on clarity, structure, and real-world usability
 
-[🌐 Live Project](https://riproperty.lovable.app/) · [💼 GitHub](https://github.com/hsinhen)
+[🌐 RiProperty Live](https://riproperty.lovable.app/) · [💼 GitHub](https://github.com/yourusername)
 
 </div>
 
@@ -17,53 +17,58 @@ Focused on clarity, structure, and real-world usability
 <tr>
 <td width="33%" valign="top">
 
-### 🏢 RiProperty  
-**Property Financial Management**
+### 🏘 RiProperty  
+**Property Listing & Discovery Platform**
 
 ✅ **Live & Public**  
 🔗 https://riproperty.lovable.app/
 
-A clean, structured platform for managing property information and cash flow.
+RiProperty is a property browsing and listing platform designed to connect users and agents through clear, structured property information.
 
-**Highlights**
-- Rental income tracking  
-- Expense management (maintenance, tax, insurance)  
-- Simple, form-driven data entry  
-- Financial clarity without complexity  
+**What it does**
+- Browse and discover properties  
+- Detailed property listings with structured data  
+- Agent-supported property listings  
+- Clean presentation focused on usability  
+
+**Focus**
+> Make property discovery and listing straightforward and easy to navigate.
 
 </td>
 
 <td width="33%" valign="top">
 
 ### 📒 RiLedger  
-**Personal & Shared Ledger System**
+**Personal & Shared Financial Ledger**
 
 🚧 **Coming Soon**
 
-A flexible ledger system designed to track:
-- Bank balances & bills  
+A flexible ledger system designed to manage:
+- Personal balances and bills  
 - Debts and obligations  
-- Shared funds & investments  
-- Percentage-based ownership  
+- Shared funds and investments  
+- Percentage-based ownership tracking  
 
-Built for transparency and everyday financial reasoning.
+Built for clarity and everyday financial decision-making.
 
 </td>
 
 <td width="33%" valign="top">
 
 ### 💍 RiWedding  
-**Wedding Planning Toolkit**
+**Wedding Planning & Coordination Toolkit**
 
 🚧 **Coming Soon**
 
-A coordination-focused planning tool that helps manage:
-- Vendor & venue communication  
-- Guest count and seating  
-- Menu and pricing references  
-- Formal message drafting  
+A structured toolkit focused on the operational side of wedding planning.
 
-Focused on reducing planning friction.
+**Planned features**
+- Vendor and venue coordination  
+- Guest and seating management  
+- Menu and pricing references  
+- Formal communication workflows  
+
+Designed to reduce planning friction.
 
 </td>
 </tr>
@@ -71,36 +76,36 @@ Focused on reducing planning friction.
 
 ---
 
-## 🧠 Design Philosophy
+## 🧠 Product Philosophy
 
-- **Real problems first**  
-- **Clear data over clever abstractions**  
-- **Simple systems that scale naturally**  
-- Tools I would personally trust and use  
+- Solve **real operational problems**
+- Keep interfaces **simple and explicit**
+- Favor **structured data over noise**
+- Build systems that scale naturally
 
 ---
 
-## 🛠 Tech & Approach
+## 🛠 Technology & Approach
 
-- Flutter (mobile-first)
+- Flutter / modern frontend
 - Structured data models
-- Local-first persistence
-- Minimal UI, maximum clarity
+- Modular feature design
+- Focus on maintainability and clarity
 
 ---
 
-## 📌 Status Overview
+## 📌 Project Status
 
-| Project     | Status        | Public |
-|------------|---------------|--------|
-| RiProperty | Live           | ✅ Yes |
-| RiLedger  | In development | ❌ No  |
-| RiWedding | In development | ❌ No  |
+| Project     | Purpose                          | Status |
+|------------|----------------------------------|--------|
+| RiProperty | Property listing & discovery     | Live   |
+| RiLedger  | Financial ledger & investments   | WIP    |
+| RiWedding | Wedding planning & coordination  | WIP    |
 
 ---
 
 <div align="center">
 
-**More projects and updates coming soon.**
+**More tools coming soon.**
 
 </div>

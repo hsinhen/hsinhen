@@ -5,7 +5,7 @@
 **Builder of practical finance & operations tools**  
 Focused on clarity, structure, and real-world usability
 
-[🌐 Live Project](https://riproperty.lovable.app/) · [💼 GitHub](https://github.com/yourusername)
+[🌐 Live Project](https://riproperty.lovable.app/) · [💼 GitHub](https://github.com/hsinhen)
 
 </div>
 
